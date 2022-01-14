@@ -1,9 +1,9 @@
 package com.atiguigu.git;
 
 /**
- * @desc£º
- * @author£º QGP
- * @create£º 2022/1/14 11:47
+ * @descÂ£Âº
+ * @authorÂ£Âº QGP
+ * @createÂ£Âº 2022/1/14 11:47
  */
 public class GitTest {
     public static void main(String[] args) {
@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("Hello git4 !");
         System.out.println("master test !");
         System.out.println("hot-fix test !");
-        System.out.println("push test !");
+        System.out.println("push tes t !");
+        System.out.println("pull tes t !");
     }
 }
